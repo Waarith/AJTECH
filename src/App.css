@@ -1,0 +1,29 @@
+body{
+  overflow-x: hidden;
+}
+.hero{
+  background: url("./assets/images/Coding-background.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.harm a{
+  display: block;
+}
+
+.harm .sixt{
+  display: none;
+  position: absolute;
+  padding-left: 10px ;
+  left: 8px ;
+  top: 33px;
+  background-color: gray;
+  width: 700px;
+  height: 65vh;
+}
+
+.harm:hover .sixt{
+  display: block;
+  
+}
