@@ -4,7 +4,7 @@ function Hero() {
       <p className="text-black lg:text-9xl text-7xl font-semibold text-center text-gray-300 opacity-40"> ABOUT ME</p>
       <p className="relative lg:top-[-80px] lg:right-[-545px] lg:text-4xl lg:font-semibold">Know Me More</p>
 
-      <section className="flex justify-evenly">
+      <section className="lg:flex justify-evenly">
         <div className="max-w-[730px] font-semithin text-lg">
           <p className="text-3xl font-semibold">I'm <span className="text-green-400">Jimoh Abdulwaris,</span> a Frontend Developer</p>
           <p>I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with our dedicated team. when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
