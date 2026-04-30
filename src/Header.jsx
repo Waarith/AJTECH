@@ -9,7 +9,7 @@ function Header() {
       <div className=" flex justify-between items-center gap-48 lg:gap-56 lg:pt-3 lg:px-5 px-3 ">
         <div><h1 className="text-3xl text-white font-bold">Abdulwaris</h1></div>
 
-        <div className="flex gap-5  lg:block hidden">
+        <div className="flex gap-5  lg:block hidden" >
           <a href="#" className="text-white text-xl lg:mx-2">Home</a>
           <a href="#" className="text-white text-xl lg:mx-2">About</a>
           <a href="#" className="text-white text-xl lg:mx-2">What I Do</a>
